@@ -12,7 +12,7 @@ In this project, I want to help my client, which are mostly entrepreneurs who wa
 ## Data
 For Manhattan neighborhoods data:</br>
 Source: https://cocl.us/new_york_dataset</br>
-Description: to retrive geo data for Manhattan</br>
+Description: to retrive geo data for Manhattan neighborhoods</br>
 
 For restaurants related data:</br>
 Source: Fousquare API</br>
