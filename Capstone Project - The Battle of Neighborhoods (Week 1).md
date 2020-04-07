@@ -11,9 +11,9 @@ In this project, I want to help my client, which are mostly entrepreneurs who wa
 
 ## Data
 For Manhattan neighborhoods data:</br>
-Source: https://cocl.us/new_york_dataset
-Description: to retrive geo data for Manhattan
+Source: https://cocl.us/new_york_dataset</br>
+Description: to retrive geo data for Manhattan</br>
 
-For restaurants related data:
-Source: Fousquare API
+For restaurants related data:</br>
+Source: Fousquare API</br>
 Description: By using this api, detail info such as price, quality of all venues in each neighborhood can be obtained. 
