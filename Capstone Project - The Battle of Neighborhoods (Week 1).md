@@ -10,7 +10,7 @@ Selecting the right location for a restaurant is one of the most important probl
 In this project, I want to help my client, which are mostly entrepreneurs who want to open restaurant in Mahattan to find the most suitable neighborhood for them to do so. The challenge is to find a "suitable neighborhood" what I mean by "suitable neighborhood"? For example,one of the client wants to open a high end restaurant in Manhattan, it would be wrong to offer this client a location that is surrounded by cheap fast food joints. Therefore, this project amis to solve this problem by analyzing restaurants in different neighborhoods based on their price, quality and other important features and offer clients a thorough understanding of the dining business layout in Manhattan
 
 ## Data
-For Manhattan neighborhoods data:</>
+For Manhattan neighborhoods data:</br>
 Source: https://cocl.us/new_york_dataset
 Description: to retrive geo data for Manhattan
 
